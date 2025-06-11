@@ -10,8 +10,11 @@
 **Clone the project**  
 
 1. git clone https://github.com/pr40934/Omnify-Sr-Python-dev.git
+
 2. cd Omnify-Sr-Python-dev
-3. python -m venv env
+   cd event_mgmt
+   
+4. python -m venv env
 
 # Windows
 env\Scripts\activate
